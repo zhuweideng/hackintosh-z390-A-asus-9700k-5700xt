@@ -22,3 +22,4 @@
 
 ## 其他
 - [OpenCore 实时编译地址](https://github.com/williambj1/OpenCore-Factory/releases)
+- [Kexts 下载地址](https://gitee.com/evu/Easy-Kexts)
