@@ -1,5 +1,8 @@
 # 黑苹果 OpenCore配置 for ASUS PRIME z390-A 9700K 
 
+## 更新日志
+- 7月24日 opencore 升级到 2020-07-24
+
 ## 硬件配置
 - 主板：华硕 PRIME Z390-A [京东地址](https://item.jd.com/100000542145.html)
 - CPU：i7-9700k @ 5.2GHz
@@ -16,3 +19,6 @@
 - UHD630：正常。DeviceProperties -> Add -> `PciRoot(0x0)/Pci(0x2,0x0)` -> `AAPL,ig-platform-id`注入ID `0300983E`。
 - 5700XT：驱动W5700x
 - 有线网卡：正常。使用了`kexts/IntelMausi.kext`
+
+## 其他
+- [OpenCore 实时编译地址](https://github.com/williambj1/OpenCore-Factory/releases)
