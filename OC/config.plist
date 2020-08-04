@@ -681,6 +681,8 @@
 			<false/>
 			<key>Target</key>
 			<integer>3</integer>
+			<key>SerialInit</key>
+			<false/>
 		</dict>
 		<key>Entries</key>
 		<array>

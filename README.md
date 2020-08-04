@@ -1,6 +1,8 @@
 # 黑苹果 OpenCore配置 for ASUS PRIME z390-A 9700K 
 
 ## 更新日志
+- 8月04日 opencore 升级到 0.6.0 正式版 
+    (升级说明 config.list 增加 SerialInit)
 - 7月24日 opencore 升级到 2020-07-24
 
 ## 硬件配置
@@ -12,6 +14,19 @@
 
 ## BIOS设置（重要）
 略
+
+## Kexts 版本 8月3日编译 
+[参考地址](http://bbs.pcbeta.com/viewthread-1866083-1-1.html)
+- AppleALC          1.5.1
+- IntelMausi 
+- Lilu              1.4.6
+- SMCProcessor      
+- SMCSuperIO
+- USBInjectAll      
+- USBPorts
+- USBPower
+- VirtualSMC        1.1.5
+- WhateverGreen     1.4.1
 
 ## 软件说明
 - 操作系统版本：macOS Catalina 10.15.5 & macOS Big Sur 11.0
