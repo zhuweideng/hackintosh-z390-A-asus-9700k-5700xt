@@ -40,6 +40,6 @@
 
 
 ## 参考
-> (微信公众号)[https://mp.weixin.qq.com/s/Vx0whinKu1wI3iHQKDKqZQ]
-> (博客)[https://towardsdatascience.com/creating-my-first-deep-learning-data-science-workstation-bd39c2f687e2]
-> (CPU比较)[http://detail.zol.com.cn/ProductComp_param_1233485-1295319-1298993-1307608.html]
+> [微信公众号](https://mp.weixin.qq.com/s/Vx0whinKu1wI3iHQKDKqZQ)
+> [博客](https://towardsdatascience.com/creating-my-first-deep-learning-data-science-workstation-bd39c2f687e2)
+> [CPU比较](http://detail.zol.com.cn/ProductComp_param_1233485-1295319-1298993-1307608.html)
