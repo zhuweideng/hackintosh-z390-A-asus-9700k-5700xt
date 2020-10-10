@@ -8,9 +8,13 @@
 ---
 
 - 主板：华硕 （ASUS）PRIME X299 EDITION 30 LGA2066 [京东地址](https://item.jd.com/100009390626.html) ￥6799
-- CPU：i9-10980XE @ 3.0GHz 18核36线程 [京东地址](https://item.jd.com/100009217918.html) ￥13999
+- CPU：i9-10980XE @ 3.0GHz 18核36线程 [京东地址](https://item.jd.com/100009217918.html) ￥13999 淘宝 ￥6999
 ---
 - 主板：玩家国度（ROG）RAMPAGE VI EXTREME ENCORE [京东地址](https://item.jd.com/100009390630.html) ￥7999
+---
+- 主板：技嘉（GIGABYTE）X299X AORUS MASTER 主板 (Intel X299/LGA 2066)[京东地址](https://item.jd.com/100005344671.html) ￥4998
+
+---
 
 ## 硬件 z490
 - 主板：华硕（ASUS）ProArt Z490-Creator 10G [京东地址](https://item.jd.com/100012956250.html) ￥3999
