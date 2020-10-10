@@ -535,6 +535,12 @@
 			<data></data>
 			<key>Cpuid1Mask</key>
 			<data></data>
+			<key>DummyPowerManagement</key>
+			<false/>
+			<key>MaxKernel</key>
+			<string></string>
+			<key>MinKernel</key>
+			<string></string>
 		</dict>
 		<key>Patch</key>
 		<array>
@@ -641,7 +647,7 @@
 			<true/>
 			<key>DisableRtcChecksum</key>
 			<false/>
-			<key>DummyPowerManagement</key>
+			<key>ExtendBTFeatureFlags</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
 			<false/>
@@ -657,6 +663,17 @@
 			<false/>
 			<key>XhciPortLimit</key>
 			<true/>
+			<key>LegacyCommpage</key>
+			<false/>
+		</dict>
+		<key>Scheme</key>
+		<dict>
+			<key>FuzzyMatch</key>
+			<true/>
+			<key>KernelArch</key>
+			<string>x86_64</string>
+			<key>KernelCache</key>
+			<string>Auto</string>
 		</dict>
 	</dict>
 	<key>Misc</key>
@@ -705,8 +722,6 @@
 			<false/>
 			<key>Target</key>
 			<integer>3</integer>
-			<key>SerialInit</key>
-			<false/>
 		</dict>
 		<key>Entries</key>
 		<array>
@@ -901,6 +916,10 @@
 			<string></string>
 			<key>SystemUUID</key>
 			<string></string>
+			<key>SystemMemoryStatus</key>
+			<string>Auto</string>
+			<key>ProcessorType</key>
+			<string>0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
