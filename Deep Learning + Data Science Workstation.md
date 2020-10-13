@@ -2,13 +2,13 @@
 
 ## 硬件 X299
 - 主板：玩家国度 （ROG）STRIX X299-E GAMING II LGA2066 [京东地址](https://item.jd.com/100005292917.html) ￥4199
-- CPU：i9-10940X @ 3.3GHz 14核28线程 三级缓存19.25M [京东地址](https://item.jd.com/100005206509.html) ￥6799
+- CPU：i9-10940X @ 3.3GHz 14核28线程 三级缓存 19.25M [京东地址](https://item.jd.com/100005206509.html) ￥6799
 
 
 ---
 
 - 主板：华硕 （ASUS）PRIME X299 EDITION 30 LGA2066 [京东地址](https://item.jd.com/100009390626.html) ￥6799
-- CPU：i9-10980XE @ 3.0GHz 18核36线程 [京东地址](https://item.jd.com/100009217918.html) ￥13999 淘宝 ￥6999
+- CPU：i9-10980XE @ 3.0GHz 18核36线程 三级缓存 24.75M [京东地址](https://item.jd.com/100009217918.html) ￥13999 [淘宝](https://item.taobao.com/item.htm?id=609550944134) ￥7999
 ---
 - 主板：玩家国度（ROG）RAMPAGE VI EXTREME ENCORE [京东地址](https://item.jd.com/100009390630.html) ￥7999
 ---
