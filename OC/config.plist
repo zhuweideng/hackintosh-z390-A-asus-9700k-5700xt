@@ -171,7 +171,7 @@
 				<key>Address</key>
 				<integer>4278190080</integer>
 				<key>Comment</key>
-				<string>Generic: PCI root is a 0x1000 page memory region used by some firmwares</string>
+				<string>Generic: PCI root is a 0x1000 page memory region used by some types of firmware</string>
 				<key>Enabled</key>
 				<false/>
 			</dict>
@@ -583,36 +583,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>Base</key>
-				<string></string>
-				<key>Comment</key>
-				<string>f1 patch</string>
-				<key>Count</key>
-				<integer>1</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>dTMPtw==</data>
-				<key>Identifier</key>
-				<string>com.apple.driver.AppleRTC</string>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>Replace</key>
-				<data>6zMPtw==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>Base</key>
 				<string>_AcpiOsVprintf</string>
 				<key>Comment</key>
 				<string>Disable ACPI logging</string>
@@ -693,7 +663,7 @@
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>MduKD4TJdQT/w7EKZrr9A+yoIHT7Zrr4A4jI7kj/x4XbdN/r/g==</data>
+				<data>MfaKD4TJdQT/xrEKZrr9A+yoIHT7Zrr4A4jI7kj/x4X2dN/r/g==</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -723,7 +693,7 @@
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>MduKD4TJdQT/w7EKZrr9A+yoIHT7Zrr4A4jI7kj/x4XbdN/D</data>
+				<data>MfaKD4TJdQT/xrEKZrr9A+yoIHT7Zrr4A4jI7kj/x4X2dN/D</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -759,6 +729,36 @@
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>Base</key>
+				<string></string>
+				<key>Comment</key>
+				<string>f1 patch</string>
+				<key>Count</key>
+				<integer>1</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>dTMPtw==</data>
+				<key>Identifier</key>
+				<string>com.apple.driver.AppleRTC</string>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>Replace</key>
+				<data>6zMPtw==</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 		<key>Quirks</key>
 		<dict>
@@ -781,6 +781,8 @@
 			<key>ExtendBTFeatureFlags</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
+			<false/>
+			<key>ForceSecureBootScheme</key>
 			<false/>
 			<key>IncreasePciBarSize</key>
 			<false/>
@@ -1031,6 +1033,8 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
+		<key>CustomMemory</key>
+		<false/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
@@ -1142,6 +1146,8 @@
 			<key>ConsoleMode</key>
 			<string></string>
 			<key>DirectGopRendering</key>
+			<false/>
+			<key>ForceResolution</key>
 			<false/>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
