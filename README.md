@@ -1,9 +1,8 @@
 # 黑苹果 OpenCore配置 for ASUS PRIME z390-A 9700K 
 
 ## 更新日志
-- 8月04日 opencore 升级到 0.6.0 正式版 
-    (升级说明 config.list 增加 SerialInit)
-- 7月24日 opencore 升级到 2020-07-24
+- 12月14日 opencore 升级到 0.6.4 正式版
+- 08月04日 opencore 升级到 0.6.0 正式版 
 
 ## 硬件配置
 - 主板：华硕 PRIME Z390-A [京东地址](https://item.jd.com/100000542145.html)
@@ -28,16 +27,16 @@
 
 ## Kexts 版本 8月3日编译 
 [参考地址](http://bbs.pcbeta.com/viewthread-1866083-1-1.html)
-- AppleALC          1.5.1
-- IntelMausi 
-- Lilu              1.4.6
-- SMCProcessor      
+- AppleALC          1.5.5
+- IntelMausi        
+- Lilu              1.4.8
+- SMCProcessor       
 - SMCSuperIO
 - USBInjectAll      
 - USBPorts
 - USBPower
-- VirtualSMC        1.1.5
-- WhateverGreen     1.4.1
+- VirtualSMC        1.1.9
+- WhateverGreen     1.4.5
 
 ## 软件说明
 - 操作系统版本：macOS Catalina 10.15.5 & macOS Big Sur 11.0(beta4)
@@ -50,3 +49,8 @@
 - [OpenCore 实时编译地址](https://github.com/williambj1/OpenCore-Factory/releases)
 - [Kexts 下载地址](https://gitee.com/evu/Easy-Kexts)
 - [xjn 大佬的博客](https://blog.xjn819.com/?p=543)
+
+## 升级 Big Sur 后 5700xt黑屏
+- [远景解决方案 
+进BIOS 关掉串口，serial port.  Off /
+进BIOS把Super I/O关闭](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1863274&highlight=5700%2B%BA%DA%C6%C1)
