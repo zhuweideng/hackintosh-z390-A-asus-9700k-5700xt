@@ -1,8 +1,9 @@
 # 黑苹果 OpenCore配置 for ASUS PRIME z390-A 9700K 
 
 ## 更新日志
-- 12月14日 opencore 升级到 0.6.4 正式版
-- 08月04日 opencore 升级到 0.6.0 正式版 
+- 21年01月06日 opencore 升级到 0.6.5 正式版
+- 20年12月14日 opencore 升级到 0.6.4 正式版
+- 20年08月04日 opencore 升级到 0.6.0 正式版 
 
 ## 硬件配置
 - 主板：华硕 PRIME Z390-A [京东地址](https://item.jd.com/100000542145.html)
@@ -29,7 +30,7 @@
 [参考地址](http://bbs.pcbeta.com/viewthread-1866083-1-1.html)
 - AppleALC          1.5.5
 - IntelMausi        
-- Lilu              1.4.8
+- Lilu              1.5.0
 - SMCProcessor       
 - SMCSuperIO
 - USBInjectAll      
