@@ -1,6 +1,7 @@
 # 黑苹果 OpenCore配置 for ASUS PRIME z390-A 9700K 
 
 ## 更新日志
+- 21年02月18日 opencore 升级到 0.6.6 正式版 
 - 21年01月06日 opencore 升级到 0.6.5 正式版
 - 20年12月14日 opencore 升级到 0.6.4 正式版
 - 20年08月04日 opencore 升级到 0.6.0 正式版 
@@ -50,6 +51,7 @@
 - [OpenCore 实时编译地址](https://github.com/williambj1/OpenCore-Factory/releases)
 - [Kexts 下载地址](https://gitee.com/evu/Easy-Kexts)
 - [xjn 大佬的博客](https://blog.xjn819.com/?p=543)
+- [主题资源文件 OcBinaryData](https://github.com/acidanthera/OcBinaryData)
 
 ## 升级 Big Sur 后 5700xt黑屏
 - [远景解决方案 
