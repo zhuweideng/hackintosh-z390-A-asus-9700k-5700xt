@@ -39,6 +39,7 @@
 - USBPower
 - [VirtualSMC](https://github.com/acidanthera/virtualsmc/releases)        1.2.1
 - [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases)     1.4.8
+- [NVMeFix](https://github.com/acidanthera/NVMeFix/releases)    1.0.5
 
 ## 软件说明
 - 操作系统版本：macOS Catalina 10.15.5 & macOS Big Sur 11.0(beta4)
