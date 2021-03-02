@@ -29,16 +29,16 @@
 
 ## Kexts 版本 8月3日编译 
 [参考地址](http://bbs.pcbeta.com/viewthread-1866083-1-1.html)
-- AppleALC          1.5.5
-- IntelMausi        
-- Lilu              1.5.0
-- SMCProcessor       
-- SMCSuperIO
-- USBInjectAll      
+- [AppleALC](https://github.com/acidanthera/AppleALC/releases)          1.5.8
+- [IntelMausi](https://github.com/acidanthera/IntelMausi/releases)        1.0.5
+- [Lilu](https://github.com/acidanthera/Lilu/releases)              1.5.1
+- SMCProcessor      - VirtualSMC
+- SMCSuperIO        - VirtualSMC
+- [USBInjectAll](https://github.com/Sniki/OS-X-USB-Inject-All/releases)      0.7.5
 - USBPorts
 - USBPower
-- VirtualSMC        1.1.9
-- WhateverGreen     1.4.5
+- [VirtualSMC](https://github.com/acidanthera/virtualsmc/releases)        1.2.1
+- [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases)     1.4.8
 
 ## 软件说明
 - 操作系统版本：macOS Catalina 10.15.5 & macOS Big Sur 11.0(beta4)
