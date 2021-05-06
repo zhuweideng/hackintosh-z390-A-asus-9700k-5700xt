@@ -277,8 +277,6 @@
 				<string>ATY,Adder</string>
 				<key>@3,name</key>
 				<string>ATY,Adder</string>
-				<key>device_type</key>
-				<string>ATY,AdderParent</string>
 				<key>AAPL00,DualLink</key>
 				<data>AQAAAA==</data>
 				<key>ATY,Card#</key>
@@ -355,6 +353,8 @@
 				<integer>0</integer>
 				<key>PP_FuzzyFanControl</key>
 				<integer>1</integer>
+				<key>device_type</key>
+				<string>ATY,AdderParent</string>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>model</key>
@@ -883,8 +883,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -1182,9 +1181,9 @@
 		<key>AppleInput</key>
 		<dict>
 			<key>AppleEvent</key>
-			<string>OEM</string>
+			<string>Auto</string>
 			<key>CustomDelays</key>
-			<string>Disable</string>
+			<false/>
 			<key>KeyInitialDelay</key>
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
@@ -1325,11 +1324,17 @@
 			<false/>
 			<key>DisableSecurityPolicy</key>
 			<false/>
+			<key>EnableVectorAcceleration</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForgeUefiSupport</key>
+			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
+			<false/>
+			<key>ReloadOptionRoms</key>
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
