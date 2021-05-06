@@ -1182,11 +1182,11 @@
 		<key>AppleInput</key>
 		<dict>
 			<key>AppleEvent</key>
-			<string>Builtin</string>
+			<string>OEM</string>
 			<key>CustomDelays</key>
-			<string>Auto</string>
+			<string>Disable</string>
 			<key>KeyInitialDelay</key>
-			<integer>0</integer>
+			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
 			<integer>5</integer>
 			<key>PointerSpeedDiv</key>

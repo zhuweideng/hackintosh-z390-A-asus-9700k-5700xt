@@ -1,6 +1,8 @@
 # 黑苹果 OpenCore配置 for ASUS PRIME z390-A 9700K 
 
 ## 更新日志
+- 21年04月30日 opencore 升级到 0.6.8 正式版 
+- 21年03月02日 opencore 升级到 0.6.7 正式版 
 - 21年02月18日 opencore 升级到 0.6.6 正式版 
 - 21年01月06日 opencore 升级到 0.6.5 正式版
 - 20年12月14日 opencore 升级到 0.6.4 正式版
