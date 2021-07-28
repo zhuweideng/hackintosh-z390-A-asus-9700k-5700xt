@@ -33,17 +33,17 @@
 
 ## Kexts 版本 8月3日编译 
 [参考地址](http://bbs.pcbeta.com/viewthread-1866083-1-1.html)
-- [AppleALC](https://github.com/acidanthera/AppleALC/releases)          1.5.8
-- [IntelMausi](https://github.com/acidanthera/IntelMausi/releases)        1.0.5
-- [Lilu](https://github.com/acidanthera/Lilu/releases)              1.5.1
+- [AppleALC](https://github.com/acidanthera/AppleALC/releases)          1.6.2
+- [IntelMausi](https://github.com/acidanthera/IntelMausi/releases)        1.0.7
+- [Lilu](https://github.com/acidanthera/Lilu/releases)              1.5.4
 - SMCProcessor      - VirtualSMC
 - SMCSuperIO        - VirtualSMC
-- [USBInjectAll](https://github.com/Sniki/OS-X-USB-Inject-All/releases)      0.7.5
+- [USBInjectAll](https://github.com/Sniki/OS-X-USB-Inject-All/releases)      0.7.5  已删除
 - USBPorts
 - USBPower
-- [VirtualSMC](https://github.com/acidanthera/virtualsmc/releases)        1.2.1
-- [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases)     1.4.8
-- [NVMeFix](https://github.com/acidanthera/NVMeFix/releases)    1.0.5
+- [VirtualSMC](https://github.com/acidanthera/virtualsmc/releases)        1.2.5
+- [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases)     1.5.1
+- [NVMeFix](https://github.com/acidanthera/NVMeFix/releases)    1.0.9
 
 ## 软件说明
 - 操作系统版本：macOS Catalina 10.15.5 & macOS Big Sur 11.0(beta4)
