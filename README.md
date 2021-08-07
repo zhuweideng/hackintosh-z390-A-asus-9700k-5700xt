@@ -51,6 +51,8 @@
 - UHD630：正常。DeviceProperties -> Add -> `PciRoot(0x0)/Pci(0x2,0x0)` -> `AAPL,ig-platform-id`注入ID `0300983E`。
 - 5700XT：驱动W5700x
 - 有线网卡：正常。使用了`kexts/IntelMausi.kext`
+- 定制USB PS 11.3 后的Mac os 需要定制USB 才能正常使用USB
+- 蓝牙免驱设备定制在USB_E12的端口上 并设置内建设备(Internal)
 
 ## 其他
 - [OpenCore 实时编译地址](https://github.com/williambj1/OpenCore-Factory/releases)
