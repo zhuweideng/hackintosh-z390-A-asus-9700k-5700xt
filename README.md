@@ -1,6 +1,7 @@
 # 黑苹果 OpenCore配置 for ASUS PRIME z390-A 9700K 
 
 ## 更新日志
+- 21年08月07日 opencore 升级到 0.7.2 正式版 
 - 21年07月28日 opencore 升级到 0.7.1 正式版 
 - 21年05月06日 opencore 升级到 0.6.9 正式版 
 - 21年04月30日 opencore 升级到 0.6.8 正式版 
@@ -39,8 +40,7 @@
 - SMCProcessor      - VirtualSMC
 - SMCSuperIO        - VirtualSMC
 - [USBInjectAll](https://github.com/Sniki/OS-X-USB-Inject-All/releases)      0.7.5  已删除
-- USBPorts
-- USBPower
+- USBPorts    定制USB 其他机型会不匹配
 - [VirtualSMC](https://github.com/acidanthera/virtualsmc/releases)        1.2.5
 - [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases)     1.5.1
 - [NVMeFix](https://github.com/acidanthera/NVMeFix/releases)    1.0.9
