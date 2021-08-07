@@ -59,6 +59,7 @@
 - [Kexts 下载地址](https://gitee.com/evu/Easy-Kexts)
 - [xjn 大佬的博客](https://blog.xjn819.com/?p=543)
 - [主题资源文件 OcBinaryData](https://github.com/acidanthera/OcBinaryData)
+- [文档](https://dortania.github.io/OpenCore-Post-Install/)
 
 ## 升级 Big Sur 后 5700xt黑屏
 - [远景解决方案 
