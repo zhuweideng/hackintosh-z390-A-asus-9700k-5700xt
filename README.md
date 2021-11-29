@@ -69,3 +69,12 @@ https://github.com/OpenIntelWireless/itlwm/releases)
 - [远景解决方案 
 进BIOS 关掉串口，serial port.  Off /
 进BIOS把Super I/O关闭](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1863274&highlight=5700%2B%BA%DA%C6%C1)
+
+## Mac OS 下载地址
+-  [macOS Big Sur](https://apps.apple.com/cn/app/macos-big-sur/id1526878132?ls=1&mt=12)
+-  [macOS Catalina](https://apps.apple.com/cn/app/macos-catalina/id1466841314?ls=1&mt=12)
+-  [macOS Mojave](https://apps.apple.com/cn/app/macos-mojave/id1398502828?ls=1&mt=12)
+-  [macOS High Sierra](https://apps.apple.com/cn/app/macos-high-sierra/id1246284741?ls=1&mt=12)
+
+## 制作启动盘
+> sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolumeName
