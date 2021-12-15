@@ -65,7 +65,8 @@
 - [ACPI定制USB端口](https://github.com/daliansky/OC-little/blob/master/15-ACPI%E5%AE%9A%E5%88%B6USB%E7%AB%AF%E5%8F%A3/README.md)
 - [Intel无线网卡](
 https://github.com/OpenIntelWireless/itlwm/releases)
-
+- [关闭n卡 ](https://dortania.github.io/Getting-Started-With-ACPI/Desktops/desktop-disable.html#finding-the-acpi-path-of-the-gpu)
+- [ACPI定制](https://dortania.github.io/Getting-Started-With-ACPI/)
 ## 升级 Big Sur 后 5700xt黑屏
 - [远景解决方案 
 进BIOS 关掉串口，serial port.  Off /
