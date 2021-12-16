@@ -67,6 +67,7 @@
 https://github.com/OpenIntelWireless/itlwm/releases)
 - [关闭n卡 ](https://dortania.github.io/Getting-Started-With-ACPI/Desktops/desktop-disable.html#finding-the-acpi-path-of-the-gpu)
 - [ACPI定制](https://dortania.github.io/Getting-Started-With-ACPI/)
+- [OpenCore 定制](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html)
 ## 升级 Big Sur 后 5700xt黑屏
 - [远景解决方案 
 进BIOS 关掉串口，serial port.  Off /
