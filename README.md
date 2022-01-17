@@ -61,7 +61,7 @@
 - [xjn 大佬的博客](https://blog.xjn819.com/?p=543)
 - [主题资源文件 OcBinaryData](https://github.com/acidanthera/OcBinaryData)
 - [文档](https://dortania.github.io/OpenCore-Post-Install/)
-- [文档2](https://github.com/daliansky/OC-little)
+- [OC-little](https://github.com/daliansky/OC-little) config配置详解
 - [ACPI定制USB端口](https://github.com/daliansky/OC-little/blob/master/15-ACPI%E5%AE%9A%E5%88%B6USB%E7%AB%AF%E5%8F%A3/README.md)
 - [Intel无线网卡](
 https://github.com/OpenIntelWireless/itlwm/releases)
