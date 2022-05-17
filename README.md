@@ -74,6 +74,9 @@ https://github.com/OpenIntelWireless/itlwm/releases)
 进BIOS 关掉串口，serial port.  Off /
 进BIOS把Super I/O关闭](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1863274&highlight=5700%2B%BA%DA%C6%C1)
 
+## 虚拟化设置
+在bios里把VT-D打开，在oc里把DisableIoMapper改为yes
+
 ## Mac OS 下载地址
 -  [macOS Big Sur](https://apps.apple.com/cn/app/macos-big-sur/id1526878132?ls=1&mt=12)
 -  [macOS Catalina](https://apps.apple.com/cn/app/macos-catalina/id1466841314?ls=1&mt=12)
