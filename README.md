@@ -1,5 +1,8 @@
 # 黑苹果 OpenCore配置 for ASUS PRIME z390-A 9700K 
 
+## Macos Ventura
+oc更新至8.1，WhateverGreen.kext和Lilu.kext已更新至最新版，关闭AvoidRuntimeDefrag，添加引导参数-lilubetaall
+
 ## 更新日志
 - 22年04月01日 opencore 升级到 0.7.9 正式版 
 - 21年12月08日 opencore 升级到 0.7.6 正式版 
