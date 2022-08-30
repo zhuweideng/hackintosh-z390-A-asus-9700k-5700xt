@@ -47,3 +47,15 @@
 > [微信公众号](https://mp.weixin.qq.com/s/Vx0whinKu1wI3iHQKDKqZQ)
 > [博客](https://towardsdatascience.com/creating-my-first-deep-learning-data-science-workstation-bd39c2f687e2)
 > [CPU比较](http://detail.zol.com.cn/ProductComp_param_1233485-1295319-1298993-1307608.html)
+
+
+处理器 英特尔 Xeon(至强) W-3275M @ 2.50GHz
+主板 华硕 Pro WS C621-64L SAGE Series（C620 series chipset - A1C1）
+显卡 AMD Radeon RX 5700 XT ( 蓝宝石 )
+内存 192 GB ( DDR4 2933MHz )
+主硬盘 三星 SSD 750 EVO 250GB ( 250 GB / 固态硬盘 )
+显示器 三星 SAM0F93 LS32R75 ( 31.5 英寸 )
+声卡 瑞昱 @ 英特尔 High Definition Audio 控制器
+网卡 英特尔 I210 Gigabit Network Connection / 华硕
+
+> [Mac pro 教程](https://hpglw.com/e9005691.html)
