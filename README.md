@@ -1,9 +1,10 @@
 # 黑苹果 OpenCore配置 for ASUS PRIME z390-A 9700K 
 
 ## Macos Ventura
-oc更新至8.1，WhateverGreen.kext和Lilu.kext已更新至最新版，关闭AvoidRuntimeDefrag，添加引导参数-lilubetaall
+oc更新至9.3，WhateverGreen.kext和Lilu.kext已更新至最新版，关闭AvoidRuntimeDefrag，添加引导参数-lilubetaall
 
 ## 更新日志
+- 23年07月21日 opencore 升级到 0.9.3 正式版 
 - 22年04月01日 opencore 升级到 0.7.9 正式版 
 - 21年12月08日 opencore 升级到 0.7.6 正式版 
 - 21年08月07日 opencore 升级到 0.7.2 正式版 
@@ -81,6 +82,7 @@ https://github.com/OpenIntelWireless/itlwm/releases)
 在bios里把VT-D打开，在oc里把DisableIoMapper改为yes
 
 ## Mac OS 下载地址
+-  [macOS Ventura](https://apps.apple.com/cn/app/macos-ventura/id1638787999?mt=12)
 -  [macOS Big Sur](https://apps.apple.com/cn/app/macos-big-sur/id1526878132?ls=1&mt=12)
 -  [macOS Catalina](https://apps.apple.com/cn/app/macos-catalina/id1466841314?ls=1&mt=12)
 -  [macOS Mojave](https://apps.apple.com/cn/app/macos-mojave/id1398502828?ls=1&mt=12)
