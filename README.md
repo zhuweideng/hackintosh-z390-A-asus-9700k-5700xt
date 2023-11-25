@@ -1,9 +1,12 @@
 # 黑苹果 OpenCore配置 for ASUS PRIME z390-A 9700K 
 
+### Sonoma OS14 已经移除博通网卡驱动，黑苹果网卡无法驱动（）
+
 ## Macos Ventura
-oc更新至9.3，WhateverGreen.kext和Lilu.kext已更新至最新版，关闭AvoidRuntimeDefrag，添加引导参数-lilubetaall
+oc更新至9.6，WhateverGreen.kext和Lilu.kext已更新至最新版，关闭AvoidRuntimeDefrag，添加引导参数-lilubetaall
 
 ## 更新日志
+- 23年11月25日 opencore 升级到 0.9.6 正式版 
 - 23年07月21日 opencore 升级到 0.9.3 正式版 
 - 22年04月01日 opencore 升级到 0.7.9 正式版 
 - 21年12月08日 opencore 升级到 0.7.6 正式版 
@@ -91,3 +94,8 @@ https://github.com/OpenIntelWireless/itlwm/releases)
 
 ## 制作启动盘
 > sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolumeName
+
+## Sonoma 网卡注入驱动
+> [黑果小兵教程](https://blog.daliansky.net/OCLP.html)
+> [PC Beta教程](https://bbs.pcbeta.com/viewthread-1975545-1-1.html)
+> [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
